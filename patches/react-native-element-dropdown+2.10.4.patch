@@ -1,0 +1,55 @@
+diff --git a/node_modules/react-native-element-dropdown/src/components/MultiSelect/styles.ts b/node_modules/react-native-element-dropdown/src/components/MultiSelect/styles.ts
+index 1afd2c1..f2b1828 100644
+--- a/node_modules/react-native-element-dropdown/src/components/MultiSelect/styles.ts
++++ b/node_modules/react-native-element-dropdown/src/components/MultiSelect/styles.ts
+@@ -6,17 +6,17 @@ export const styles = StyleSheet.create({
+   },
+   container: {
+     flexShrink: 1,
+-    backgroundColor: 'white',
+-    borderWidth: 0.5,
+-    borderColor: '#EEEEEE',
+-    shadowColor: '#000',
+-    shadowOffset: {
+-      width: 0,
+-      height: 1,
+-    },
+-    shadowOpacity: 0.2,
+-    shadowRadius: 1.41,
+-    elevation: 2,
++    // backgroundColor: 'white',
++    // borderWidth: 0.5,
++    // borderColor: '#EEEEEE',
++    // shadowColor: '#000',
++    // shadowOffset: {
++    //   width: 0,
++    //   height: 1,
++    // },
++    // shadowOpacity: 0.2,
++    // shadowRadius: 1.41,
++    // elevation: 2,
+   },
+   flex1: {
+     flex: 1,
+@@ -63,8 +63,8 @@ export const styles = StyleSheet.create({
+     height: 20,
+   },
+   input: {
+-    borderWidth: 0.5,
+-    borderColor: '#DDDDDD',
++    // borderWidth: 0.5,
++    // borderColor: '#DDDDDD',
+     paddingHorizontal: 8,
+     marginBottom: 8,
+     margin: 6,
+@@ -78,8 +78,8 @@ export const styles = StyleSheet.create({
+     padding: 8,
+     alignItems: 'center',
+     justifyContent: 'center',
+-    borderWidth: 0.5,
+-    borderColor: 'gray',
++    // borderWidth: 0.5,
++    // borderColor: 'gray',
+     paddingHorizontal: 8,
+     marginVertical: 6,
+     marginRight: 8,
