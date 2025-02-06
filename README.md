@@ -1,7 +1,3 @@
-Apologies for the misunderstanding! Here’s the **README** version of the text:
-
----
-
 # BedNet - Furniture Industry App
 
 **Overview**  
